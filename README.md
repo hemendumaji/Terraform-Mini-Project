@@ -1,5 +1,3 @@
-To help you with the "Hello, World" Terraform example on AWS, I'll provide a detailed breakdown of each step, including the code you'll need in the `main.tf` file. This simple example will create an EC2 instance on AWS using Terraform.
-
 ### Step 1: Install Terraform
 
 Ensure Terraform is installed on your machine. If it's not installed yet, you can follow the [official installation guide](https://learn.hashicorp.com/tutorials/terraform/install-cli).
